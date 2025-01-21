@@ -4,6 +4,7 @@
 This app contains two screens for two tasks:
 
 Task 1: Displays the upper and lower teeth. Users can select any tooth by clicking on it, which opens a Bottom View Modal to input details about the issue with the tooth. Upon clicking "Next," the details are saved to the SQLite database.
+
 Task 2: Includes a dropdown to select a date (limited to 1 week from today). Below the dropdown, an hourly view of appointments is displayed using static data.
 
 ## 1. Clone Project
