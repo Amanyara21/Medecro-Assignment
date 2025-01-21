@@ -1,0 +1,82 @@
+[
+    { 
+        "id": "1", 
+        "name": "John Doe", 
+        "type": "Consultation", 
+        "start": "08:30", 
+        "end": "09:30", 
+        "date": "2025-01-21" 
+    },
+    { 
+        "id": "2", 
+        "name": "Emma Smith", 
+        "type": "Follow-up", 
+        "start": "10:00", 
+        "end": "11:00", 
+        "date": "2025-01-21" 
+    },
+    { 
+        "id": "3", 
+        "name": "Michael Brown", 
+        "type": "Consultation", 
+        "start": "11:30", 
+        "end": "12:30", 
+        "date": "2025-01-22" 
+    },
+    { 
+        "id": "4", 
+        "name": "Lunch Break", 
+        "type": "Break", 
+        "start": "12:30", 
+        "end": "13:30", 
+        "date": "2025-01-22" 
+    },
+    { 
+        "id": "5", 
+        "name": "Sarah Williams", 
+        "type": "Check-up", 
+        "start": "14:00", 
+        "end": "15:00", 
+        "date": "2025-01-23" 
+    },
+    { 
+        "id": "6", 
+        "name": "David Lee", 
+        "type": "Follow-up", 
+        "start": "15:30", 
+        "end": "16:00", 
+        "date": "2025-01-23" 
+    },
+    { 
+        "id": "7", 
+        "name": "Alice Brown", 
+        "type": "Consultation", 
+        "start": "09:00", 
+        "end": "10:00", 
+        "date": "2025-01-24" 
+    },
+    { 
+        "id": "8", 
+        "name": "James Smith", 
+        "type": "Scaling", 
+        "start": "10:30", 
+        "end": "11:30", 
+        "date": "2025-01-24" 
+    },
+    { 
+        "id": "9", 
+        "name": "Sophia Davis", 
+        "type": "Check-up", 
+        "start": "12:00", 
+        "end": "13:00", 
+        "date": "2025-01-25" 
+    },
+    { 
+        "id": "10", 
+        "name": "Mark Wilson", 
+        "type": "Follow-up", 
+        "start": "13:30", 
+        "end": "14:30", 
+        "date": "2025-01-25" 
+    }
+]
